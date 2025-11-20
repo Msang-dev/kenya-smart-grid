@@ -2,9 +2,10 @@ kenya-smart-grid/
 ├── backend/
 │   ├── app.py
 │   ├── requirements.txt
-│   └── start.sh   <-- currently here
+│   └── start.sh       <-- executable script to launch FastAPI
 ├── frontend/
 │   ├── index.html
 │   ├── style.css
 │   └── app.js
+├── .gitignore
 └── README.md
