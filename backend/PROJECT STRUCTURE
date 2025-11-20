@@ -1,0 +1,10 @@
+kenya-smart-grid/
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── start.sh   <-- currently here
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── app.js
+└── README.md
