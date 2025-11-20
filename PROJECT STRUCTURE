@@ -1,0 +1,12 @@
+kenya-smart-grid/
+├── backend/
+│ ├── app.py
+│ ├── Procfile
+│ ├── start.sh
+│ ├── requirements.txt
+│ └── railway.json
+├── frontend/
+│ ├── index.html
+│ ├── style.css
+│ └── app.js
+└── README.md
